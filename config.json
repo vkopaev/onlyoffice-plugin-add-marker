@@ -1,0 +1,19 @@
+{
+    "name"       : "Указать место штампа",
+    "guid"       : "custom.{0616AE85-FDFS-4B6B-A0A9-432423423DS}",
+    "baseUrl"    : "",
+    "variations" : [
+        {
+            "type"                : "system",
+            "description"         : "Указать место штампа",
+            "url"                 : "index.html",
+            "icons"               : ["resources/img/stamp.svg"],
+            "isViewer"            : false,
+            "EditorsSupport"      : ["word"],
+            "isVisual"            : false,
+            "initDataType"        : "none",
+            "initData"            : "",
+            "buttons"             : []
+        }
+    ]
+}
